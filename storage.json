@@ -1,0 +1,15 @@
+{
+    "botName": "Bot",
+    "botToken": "<put group token here>",
+    "userToken": "<put any admin user token here>",
+    "admins": [
+		"<put integer id's of users here>"
+    ],
+    "aliases": {
+        "example":"example name of example command"
+    },
+    "templates": {
+        "exampleTemplate":"example template, that can be used later in scripts"
+    },
+    "startTime": 0
+}
